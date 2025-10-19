@@ -1,2 +1,2 @@
 Initial release of the project.
-add some line
+added release 1.0.1 notes.
