@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("This is a sample C# console application.");
+Console.WriteLine("This is a sample C# console application");
